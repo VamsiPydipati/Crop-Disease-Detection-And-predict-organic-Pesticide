@@ -43,12 +43,15 @@ Konda Ashok reddy 	Email:99210041395@klu.ac.in
 
 ## ⭐Snippet of Web App :
 #### Main page
-https://drive.google.com/file/d/1qLuPBQlLlGIVlqqwg3NXBzcltCvMukIP/view?usp=drivesdk
+[here](https://drive.google.com/file/d/1qLuPBQlLlGIVlqqwg3NXBzcltCvMukIP/view?usp=drivesdk)
 #### AI Engine 
-https://drive.google.com/file/d/1qOu9jr78aAtSjHSS5ODmQ0wP2NRT5vTP/view?usp=drivesdk
+[here](https://drive.google.com/file/d/1qOu9jr78aAtSjHSS5ODmQ0wP2NRT5vTP/view?usp=drivesdk
+)
 #### Results Page 
-https://drive.google.com/file/d/1q727-fMsY2Tz9Aa0d7-PoIMgSbXbNsB-/view?usp=drivesdk
+[here](https://drive.google.com/file/d/1q727-fMsY2Tz9Aa0d7-PoIMgSbXbNsB-/view?usp=drivesdk
+)
 #### Supplements/Fertilizer  Store
-https://drive.google.com/file/d/1qWiCPR86eOUyTzyGMuykEWs-OyjecCbQ/view?usp=drivesdk
+[here](https://drive.google.com/file/d/1qWiCPR86eOUyTzyGMuykEWs-OyjecCbQ/view?usp=drivesdk)
 #### Contact Us 
-https://drive.google.com/file/d/1qSck4fhiV0Bt7Dr2JZeO5xHQ5US0O6ee/view?usp=drivesdk
+[here](https://drive.google.com/file/d/1qSck4fhiV0Bt7Dr2JZeO5xHQ5US0O6ee/view?usp=drivesdk
+)
