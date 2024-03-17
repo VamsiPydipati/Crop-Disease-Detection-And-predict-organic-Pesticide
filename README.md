@@ -1,0 +1,1 @@
+# Crop-Disease-Detection-And-predict-organic-Pesticide
