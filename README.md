@@ -1,5 +1,6 @@
 # Crop-Disease-Detection-And-predict-organic-Pesticide
-
+# Demo link
+[here](https://drive.google.com/file/d/1qbb5L7zns_GDr0bK4EzLvDCd3mUUC4qc/view?usp=drivesdk)
 # ⭐ Crop-Disease-Detection-And-predict-organic-Pesticide ⭐
 Crop Disease is necessary for every farmer so we are created crop disease detection using Deep learning. In which we are using convolutional Neural Network for classifying Leaf images into 39 Different Categories. 
 The Convolutional Neural Code build in Pytorch Framework. For Training we are using crop village dataset. Dataset Link is in My Blog Section.
